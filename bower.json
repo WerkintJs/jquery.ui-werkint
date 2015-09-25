@@ -5,6 +5,7 @@
         "jquery": "*"
     },
     "main":         [
+        "jquery.ui.js",
         "jqueryui/jquery-ui.js",
         "jqueryui/jquery-ui.css",
         "jqueryui/images/*.png"
