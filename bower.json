@@ -2,6 +2,7 @@
     "name":         "jquery.ui",
     "version":      "1.11.4",
     "dependencies": {
+        "requirejs.css":  "*",
         "jquery": "*"
     },
     "main":         [
